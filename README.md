@@ -1,6 +1,7 @@
 # ADOBE: Image Classification and Artifact Detection
 
 Welcome to the repository for **ADOBE: Image Classification and Artifact Detection**—a project designed to tackle one of today's most pressing challenges in digital media: distinguishing real images from AI-generated ones, and making the process transparent, robust, and explainable.
+This project was IIT Guwahati's official submission for Adobe Research's Mid-Prep Problem Statement at the Inter IIT Tech Meet 13.0
 
 ---
 <p align="center">
