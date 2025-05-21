@@ -12,7 +12,7 @@ This project was IIT Guwahati's official submission for Adobe Research's Mid-Pre
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The explosion of AI image generation models like Stable Diffusion and GANs has brought both creative opportunity and new risks to the digital world. As these models become more advanced, the line between authentic and synthetic images blurs, fueling concerns around misinformation, digital forensics, and content authenticity.
 
@@ -23,7 +23,7 @@ This project provides a **lightweight, efficient, and interpretable solution** f
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - **Hybrid Model Architecture:**  
   Combines the local feature extraction power of **Convolutional Neural Networks (CNNs)** with the global context awareness of **Data-efficient Image Transformers (DeiT)**. This synergy delivers state-of-the-art performance while keeping the model size practical for real-world deployment.
@@ -39,7 +39,7 @@ This project provides a **lightweight, efficient, and interpretable solution** f
 
 ---
 
-## 🏗️ How It Works
+## How It Works
 
 **Task 1: AI-Generated Image Detection**  
 - **CNN** extracts fine-grained, local features (edges, textures, patterns).
@@ -70,7 +70,7 @@ For detailed setup and execution steps, **please refer to the README files insid
 - The Project Report and the Presentation given at the Inter IIT Tech Meet 13.0 at IIT Bombay can be found at the root of the repository. 
 
 
-## 📊 Results Snapshot
+## Results Snapshot
 
 - **Detection Accuracy:**  
   Hybrid CNN+DeiT model achieved >99% accuracy on our custom datasets and 97.8% on CIFAKE, outperforming baselines and demonstrating strong generalization to new generative models and adversarial perturbations.
@@ -79,19 +79,19 @@ For detailed setup and execution steps, **please refer to the README files insid
 
 ---
 
-## 📝 Project Report
+## Project Report
 
 For a deep dive into the methodology, experiments, and results, see the attached [project report](Image%20Classification%20and%20Artifact%20Detection%20Report.pdf).
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 This project is inspired by recent advancements in deep learning and vision-language modeling. We’d like to thank the research community for their valuable contributions, which laid the groundwork for this effort. For a detailed list of references and inspirations, please see the References section of the project report.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Questions or feedback?  
 Open an issue or reach out to any of the contributors via GitHub.
